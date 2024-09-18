@@ -12,14 +12,16 @@ Loading the cleaned data into PostgreSQL (both local and AWS RDS instances).
 Querying the data to count addresses by state.
 Visualizing the addresses on an interactive map using the Folium library.
 
+
 ## Technologies Used
-Python 3.x: For data extraction, transformation, and loading.
-Pandas: For data manipulation and transformation.
-PostgreSQL: As the database to store the address data.
-AWS RDS: For cloud-based PostgreSQL storage.
-psycopg2: Python library for PostgreSQL database connections.
-Folium: For visualizing geographic data on interactive maps.
-Jupyter Notebooks: For development and testing (optional).
+
+- **Python 3.x**: For data extraction, transformation, and loading.
+- **Pandas**: For data manipulation and transformation.
+- **PostgreSQL**: As the database to store the address data.
+- **AWS RDS**: For cloud-based PostgreSQL storage.
+- **psycopg2**: Python library for PostgreSQL database connections.
+- **Folium**: For visualizing geographic data on interactive maps.
+- **Jupyter Notebooks**: For development and testing (optional).
 
 
 
