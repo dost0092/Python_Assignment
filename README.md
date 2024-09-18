@@ -28,13 +28,12 @@ Visualizing the addresses on an interactive map using the Folium library.
 ## Setup Instructions
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/ETL-Postgres-AWS-Folium.git
-cd ETL-Postgres-AWS-Folium
+git clone (https://github.com/dost0092/Python_Assignment.git)
 
 ### 2. Install Python Dependencies
-pandas
-psycopg2
-folium
+- **pandas**
+- **psycopg2**
+- **folium**
 
 ### 3. Set Up PostgreSQL
 Install PostgreSQL on your local machine if you haven't already.
