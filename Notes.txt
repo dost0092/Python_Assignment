@@ -1,0 +1,30 @@
+pip install pyap
+Step 2: Importing the Library After installing pyap, import it into your Python script:
+
+import pyap
+Step 3: Parsing an Address Now, let’s define an address string and parse it using pyap:
+
+address_string = "123 Main Street, San Francisco, CA 94101, United States"
+address_parser = pyap.parse(address_string) 
+
+# Extracting parsed address components
+parsed_address = address_parser[0]
+street = parsed_address.street_number + " " + parsed_address.street_name
+city = parsed_address.city
+state = parsed_address.region
+postal_code = parsed_address.zipcode
+country = parsed_address.country
+
+# Printing the extracted components
+print("Street:", street)
+print("City:", city)
+print("State:", state)
+print("Postal Code:", postal_code)
+print("Country:", country)
+Output:
+
+Street: 123 Main Street
+City: San Francisco
+State: CA
+Postal Code: 94101
+Country: United States
