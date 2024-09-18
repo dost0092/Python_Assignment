@@ -74,7 +74,7 @@ Cell > Run All
 
 
 
-![Beach sunset](Map Addresses.png)
+![Map Photo](https://github.com/dost0092/Python_Assignment/blob/main/Map%20Addresses.png)
 
 
 - **Medium Link:** https://medium.com/p/d68577212da5
