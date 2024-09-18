@@ -72,3 +72,12 @@ Cell > Run All
 
 
 
+
+
+![alt text](https://drive.google.com/file/d/1Mrp8u9ELVec3eFQXgbP9kaOB1ufYLDhL/view?usp=sharing)
+
+
+
+- **Medium Link:** https://medium.com/p/d68577212da5
+- **Jupyter Notebook PDF Link:** https://drive.google.com/file/d/1z9eol3b38I3ctRYHkj2CmN66t7pWIspE/view?usp=sharing
+- **Jupyter Notebook HTML Link:** https://drive.google.com/file/d/1-dqc70Xf7gBc7Mkb9az5EEbm9d4uo51_/view?usp=sharing
