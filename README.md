@@ -74,8 +74,7 @@ Cell > Run All
 
 
 
-![alt text](https://drive.google.com/file/d/1Mrp8u9ELVec3eFQXgbP9kaOB1ufYLDhL/view?usp=sharing)
-
+![Beach sunset](Map Addresses.png)
 
 
 - **Medium Link:** https://medium.com/p/d68577212da5
